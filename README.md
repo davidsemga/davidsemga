@@ -3,8 +3,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1100&color=3FB950&width=600&lines=part+time+student%2C+full+time+financier.;finance+brain%2C+builder+mentality.;turning+random+ideas+into+real+projects.;probably+debugging+something+right+now...)](https://git.io/typing-svg)
 
 
-**part time student, full time financier.**
-
 i'm a current student at the University of Houston and an IA/MLO. i also like turning random ideas into real projects, figuring things out as I go, and occasionally building something because i watched a documentary and thought, "wait... what if?..."
 
 ### 🚀 currently building

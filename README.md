@@ -25,3 +25,16 @@ i'm a current student at the University of Houston and an IA/MLO. i also like tu
 ### 💡 interested in
 fintech • startups • financial analysis • entrepreneurship
 
+
+---
+
+### 🐍 watch the snake eat my contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/davidsemga/davidsemga/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/davidsemga/davidsemga/output/github-snake.svg">
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/davidsemga/davidsemga/output/github-snake.svg">
+</picture>
+
+
+

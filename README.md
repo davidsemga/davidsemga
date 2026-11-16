@@ -1,4 +1,4 @@
-# hello world, david here 👋
+# hello world, david here.
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1100&color=3FB950&width=600&lines=part+time+student%2C+full+time+financier.;finance+brain%2C+builder+mentality.;turning+random+ideas+into+real+projects.;probably+debugging+something+right+now...)](https://git.io/typing-svg)
 
